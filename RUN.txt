@@ -1,4 +1,4 @@
 
 https://pypi.python.org/pypi/python-lambda-local/0.1.2
 
-python-lambda-local -f handler -t 5 test.py event.json
+python-lambda-local -f lambda_handler -t 5 test.py event.json
